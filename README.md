@@ -1,7 +1,7 @@
 ## Hi, I am Kofi
 
 🎓 Self thought Frontend Developer and UIUX Designer<br/>
-I Create 🌐websites and 📱mobile applications
+I Create 🌐websites and 📱mobile applications<br/>
 I make videos about 🛠️tech products on my 📱[TikTok](https://www.tiktok.com/@kaytech__?_t=ZM-8xPvaHGWSgy&_r=1) and 🔴[Youtube](https://youtube.com/@kaytech_?si=-wUE9bz7Doz41WE1)
 
 
